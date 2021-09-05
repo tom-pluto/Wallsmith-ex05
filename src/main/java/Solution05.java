@@ -1,4 +1,9 @@
 /*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 Thomas Wallsmith
+ */
+
+/*
     PSEUDOCODE:
     Define variables (numFirst, numSecond, addition, subtraction, multiplication, division)
     Create scanner
